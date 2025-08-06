@@ -25,7 +25,7 @@ Lorrie brings a wealth of industry experience, a strong commitment to lifelong l
 * PCEP – Certified Entry-Level Python Programmer – Python Institute
 * IT Specialist in Python – Certiport
 
-### 1.	Your name and email address
+### Contact Information
 * Lorrie Tomek
 * latomek@waketech.edu
 
