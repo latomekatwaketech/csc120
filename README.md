@@ -45,6 +45,6 @@ I am GLAD you are here, as this course is the beginning of a journey where you w
 
 
 ### Included pages
-* [Home Page](index.html)
+* [Live Home Page](https://latomekatwaketech.github.io/csc120/index.html)
 
 ---
